@@ -1,0 +1,6 @@
+[project]
+name = "file-organizer"
+version = "0.1.0"
+description = "A simple Python file organizer with simulation and undo support"
+readme = "README.md"
+requires-python = ">=3.13"

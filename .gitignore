@@ -116,14 +116,14 @@ desktop.ini
 # =========================================================
 # VS Code
 # =========================================================
-.vscode/*
-!.vscode/settings.json
-!.vscode/extensions.json
-!.vscode/launch.json
-!.vscode/tasks.json
+# .vscode/*
+# !.vscode/settings.json
+# !.vscode/extensions.json
+# !.vscode/launch.json
+# !.vscode/tasks.json
 
 # If you prefer to ignore ALL of .vscode, use this instead:
-# .vscode/
+.vscode/
 
 # =========================================================
 # JetBrains
